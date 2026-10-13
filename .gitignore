@@ -1,0 +1,5 @@
+# Dependencies
+node_modules/
+
+# Build outputs - comment out if you want to commit the bundle
+# analytics.bundle.js
